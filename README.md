@@ -21,6 +21,11 @@
     <img height src="https://cdn.discordapp.com/attachments/963972218981847040/1115245677325320294/image.png"/>
 </div>
 
+<h2 align="center">🧾 Diagrama Relacional, Banco de Dados 🧾</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/963972218981847040/1115400097900023870/image.png"/>
+</div>
+
 <h2 align="center">Endpoints 📋</h2>
 
 ### Cadastro com Autenticação e Token ╹Usuário╷ **`/registrar`**:
